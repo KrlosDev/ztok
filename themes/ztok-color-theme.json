@@ -1915,7 +1915,7 @@
     "input.placeholderForeground": "#a6a6a6",
     "textLink.foreground": "#49d59c",
     "editor.background": "#222222",
-    "editor.foreground": "#d56666",
+    "editor.foreground": "#abb2bf",
     "editorLineNumber.foreground": "#858585",
     "editorCursor.foreground": "#aeafad",
     "editorCursor.background": "#000000",

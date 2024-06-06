@@ -6,6 +6,7 @@
   "publisher": "KrlosDev",
   "author": "KrlosDev",
   "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://github.com/KrlosDev/ztok",
   "engines": {
     "vscode": "^1.90.0"
   },
