@@ -1,0 +1,21 @@
+{
+  "name": "ztok",
+  "displayName": "ztok",
+  "description": "Color theme inspired in Zelda tears of the kingdom",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ztok",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ztok-color-theme.json"
+      }
+    ]
+  }
+}
