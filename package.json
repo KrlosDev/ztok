@@ -1,9 +1,11 @@
 {
-  "name": "ztok_theme",
+  "name": "ztok",
   "displayName": "ztok_theme",
   "description": "Color theme inspired in Zelda tears of the kingdom",
   "version": "1.0.0",
   "publisher":"KrlosDev",
+  "author":"KrlosDev",
+  "license": "SEE LICENSE IN LICENSE.txt",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -32,5 +34,6 @@
         "path": "./themes/ztok-color-theme.json"
       }
     ]
-  }
+  },
+  "pricing": "Free"
 }
