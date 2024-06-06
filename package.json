@@ -1,11 +1,26 @@
 {
-  "name": "ztok",
-  "displayName": "ztok",
+  "name": "ztok_theme",
+  "displayName": "ztok_theme",
   "description": "Color theme inspired in Zelda tears of the kingdom",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher":"KrlosDev",
   "engines": {
     "vscode": "^1.90.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KrlosDev/ztok"
+  },
+  "keywords": [
+    "dark theme",
+    "dark",
+    "zelda",
+    "tears",
+    "tok",
+    "ztok",
+    "kingdom",
+    "theme"
+  ],
   "categories": [
     "Themes"
   ],
