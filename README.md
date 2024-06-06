@@ -2,7 +2,7 @@
 
 Welcome to the ztok_theme VSCode Theme! This theme is designed to provide a visually appealing and comfortable coding environment with a mix of earthy ochers and calming greens inspired in The legend of zelda tears of the kingdom. Below, you will find instructions on how to install and customize the theme, as well as a detailed color reference.
 
-![demo]("./images/demo.png")
+![demo]("https://github.com/KrlosDev/ztok/blob/master/images/demo.png")
 
 ## Installation
 
