@@ -40,6 +40,7 @@ Here is a list of the primary colors used in the ztok_theme:
 | ![#1f5d50](https://via.placeholder.com/10/1f5d50.png?text=+) `#1f5d50` | Green          |
 | ![#18473d](https://via.placeholder.com/10/18473d.png?text=+) `#18473d` | Dark Green     |
 | ![#2c2422](https://via.placeholder.com/10/2c2422.png?text=+) `#2c2422` | Brown          |
+| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6.png?text=+) `#5ccfe6` | Sky Blue       |
 
 ## Customization
 
