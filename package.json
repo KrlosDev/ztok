@@ -3,12 +3,13 @@
   "displayName": "ztok_theme",
   "description": "Color theme inspired in Zelda tears of the kingdom",
   "version": "1.0.4",
+  "icon": "images/icon.png",
   "publisher": "KrlosDev",
   "author": "KrlosDev",
   "license": "SEE LICENSE IN LICENSE.txt",
   "homepage": "https://github.com/KrlosDev/ztok",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.14.0"
   },
   "repository": {
     "type": "git",
